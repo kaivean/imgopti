@@ -1,0 +1,19 @@
+{
+    "undef": true,
+    "unused": true,
+
+    "eslint": {
+        "globals": {
+            "module": true,
+            "exports": true
+        },
+        "env": {
+            "browser": true,
+            "node": true
+        },
+        "rules": {
+            "no-console": false
+        }
+    }
+
+}
